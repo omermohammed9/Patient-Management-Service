@@ -1,0 +1,7 @@
+{"level":"info","message":"::1 - - [13/Nov/2023:19:21:39 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"PostmanRuntime/7.34.0\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2023:19:30:52 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"PostmanRuntime/7.34.0\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2023:21:46:08 +0000] \"GET /patient/1 HTTP/1.1\" 404 148 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2023:21:50:35 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2023:13:18:25 +0000] \"GET /patient/getpatientbyid/2 HTTP/1.1\" 404 31 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2023:13:18:35 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2023:13:23:55 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}

@@ -5,3 +5,14 @@
 {"level":"info","message":"::1 - - [14/Nov/2023:13:18:25 +0000] \"GET /patient/getpatientbyid/2 HTTP/1.1\" 404 31 \"-\" \"axios/1.6.1\"\n"}
 {"level":"info","message":"::1 - - [14/Nov/2023:13:18:35 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
 {"level":"info","message":"::1 - - [14/Nov/2023:13:23:55 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:47:58 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:48:19 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:48:51 +0000] \"GET /patient/getpatientbyid/undefined HTTP/1.1\" 400 41 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:49:52 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:50:36 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:50:41 +0000] \"GET /patient/getpatientbyid/2 HTTP/1.1\" 404 31 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:50:51 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:58:26 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:58:28 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:11:59:42 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2023:12:01:23 +0000] \"GET /patient/getpatientbyid/1 HTTP/1.1\" 200 351 \"-\" \"axios/1.6.1\"\n"}
